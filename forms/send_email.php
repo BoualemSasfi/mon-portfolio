@@ -51,8 +51,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 
     echo '<script>alert("Email envoyé avec success.");</script>';
-    echo '<script>window.location.href = "../index.html";</script>'; // Redirect to a specific page after the email is sent
-    
+    echo '<script>window.location.href = "https://boualemsasfi.github.io/mon-portfolio/";</script>'; // Redirect to a specific page after the email is sent
+
     // echo 
     // "<script>
     // alert('l'Email a été envoyé avec success');
