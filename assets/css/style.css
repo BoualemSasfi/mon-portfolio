@@ -489,25 +489,27 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
-  display: block;
+  height: 80px;
+  /* display: block; */
   background: none;
   border-radius: 0;
 }
 
 .skills .progress .skill {
+  width: 100%;
   padding: 10px 0;
   margin: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   display: block;
-  font-weight: 600;
+  font-weight: 400;
   font-family: "Poppins", sans-serif;
   color: #45505b;
 }
 
 .skills .progress .skill .val {
   float: right;
-  font-style: normal;
+  /* text-align: center; */
+  /* right: 0; */
 }
 
 .skills .progress-bar-wrap {
