@@ -499,7 +499,7 @@ section {
   width: 100%;
   padding: 10px 0;
   margin: 0;
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
   display: block;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
@@ -868,75 +868,122 @@ section {
 }
 
 .services .iconbox-blue i {
-  color: #47aeff;
+  color: #08678C;
 }
+
+.services .iconbox-orange i {
+  color: #F28705;
+}
+
+.services .iconbox-pink i {
+  color: #F73C86;
+}
+
+.services .iconbox-yellow i {
+  color: #F5B403;
+}
+
+.services .iconbox-red i {
+  color: #FF0000;
+}
+
+.services .iconbox-green i {
+  color: #007F5C;
+}
+
+.services .iconbox-purple i {
+  color: #632D8B;
+}
+
+.services .iconbox-blue2 i {
+  color: #032859;
+}
+
+.services .iconbox-green2 i {
+  color: #00BF8A;
+}
+
+
+
 
 .services .iconbox-blue:hover .icon i {
   color: #fff;
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #08678C;
 }
 
-.services .iconbox-orange i {
-  color: #ffa76e;
-}
+
 
 .services .iconbox-orange:hover .icon i {
   color: #fff;
 }
 
 .services .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
+  fill: #F28705;
 }
 
-.services .iconbox-pink i {
-  color: #e80368;
-}
+
 
 .services .iconbox-pink:hover .icon i {
   color: #fff;
 }
 
 .services .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #F73C86;
 }
 
-.services .iconbox-yellow i {
-  color: #ffbb2c;
-}
+
 
 .services .iconbox-yellow:hover .icon i {
   color: #fff;
 }
 
 .services .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
+  fill: #F5B403;
 }
 
-.services .iconbox-red i {
-  color: #ff5828;
-}
+
 
 .services .iconbox-red:hover .icon i {
   color: #fff;
 }
 
 .services .iconbox-red:hover .icon path {
-  fill: #ff5828;
+  fill: #FF0000;
 }
 
-.services .iconbox-teal i {
-  color: #11dbcf;
-}
 
-.services .iconbox-teal:hover .icon i {
+.services .iconbox-green:hover .icon i {
   color: #fff;
 }
+.services .iconbox-green:hover .icon path {
+  fill: #007F5C;
+}
 
-.services .iconbox-teal:hover .icon path {
-  fill: #11dbcf;
+
+.services .iconbox-purple:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-purple:hover .icon path {
+  fill: #632D8B;
+}
+
+
+.services .iconbox-blue2:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-blue2:hover .icon path {
+  fill: #032859;
+}
+
+
+.services .iconbox-green2:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-green2:hover .icon path {
+  fill: #00BF8A;
 }
 
 /*--------------------------------------------------------------

@@ -1,3 +1,14 @@
 Hi everyone
 
 
+blue #08678C
+orange #F28705
+pink #F73C86
+
+yellow #F5B403
+red #FF0000
+green #007F5C
+
+purple #632D8B
+blue2 #032859
+green2 #00BF8A
