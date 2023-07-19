@@ -1107,9 +1107,10 @@ section {
   color: #728394;
 }
 
+.contact .info .adress,
 .contact .info .email,
 .contact .info .phone {
-  margin-top: 40px;
+  /* margin-top: 40px; */
 }
 
 .contact .info .email:hover i,
