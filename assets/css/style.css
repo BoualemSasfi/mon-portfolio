@@ -288,7 +288,12 @@ h6 {
   background-size: cover;
   position: relative;
 }
-
+@media (max-width: 768px) {
+  #hero {
+    background-position: right center; /* Décale l'image vers la droite */
+    /* Autres styles CSS pour votre image de couverture sur les petits écrans */
+  }
+}
 @media (min-width: 992px) {
   #hero {
     padding-left: 160px;
