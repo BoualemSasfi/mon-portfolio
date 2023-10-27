@@ -290,8 +290,7 @@ h6 {
 }
 @media (max-width: 768px) {
   #hero {
-    background-position: right center; /* Décale l'image vers la droite */
-    /* Autres styles CSS pour votre image de couverture sur les petits écrans */
+  background-position: -450px center !important;
   }
 }
 @media (min-width: 992px) {
