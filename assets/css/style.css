@@ -291,6 +291,9 @@ h6 {
 @media (max-width: 768px) {
   #hero {
   /* background-position: -450px center !important; */
+   background-position: calc(100% + 250px) center !important;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
 @media (min-width: 992px) {
