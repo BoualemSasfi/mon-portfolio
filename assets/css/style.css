@@ -290,7 +290,7 @@ h6 {
 }
 @media (max-width: 768px) {
   #hero {
-  background-position: -450px center !important;
+  /* background-position: -450px center !important; */
   }
 }
 @media (min-width: 992px) {
